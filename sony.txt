@@ -1,3 +1,17 @@
+dus01.ps4.update.playstation.net
+fuk01.ps4.update.playstation.net
+duk01.ps4.update.playstation.net
+fus01.ps4.update.playstation.net
+al02.cdn.update.playstation.net
 pls.patch.station.sony.com
 gs2.ww.prod.dl.playstation.net
 gs2.sonycoment.loris-e.llnwd.net
+theia.dl.playstation.net
+tmdb.np.dl.playstation.net
+gs-sec.ww.np.dl.playstation.net
+playstation4.sony.akadns.net
+gs2-ww-prod.psn.akadns.net
+gs2.ww.prod.dl.playstation.net.edgesuite.net
+*.cloudfront.net
+*.deploy.static.akamaitechnologies.com
+*.llnw.net
