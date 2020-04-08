@@ -11,6 +11,11 @@
 			"domain_files": ["blizzard.txt"]
 		},
 		{
+			"name": "bsg",
+			"description": "CDN for Battle State Games, Tarkov",
+			"domain_files": ["bsg.txt"]
+		},
+		{
 			"name": "cityofheroes",
 			"description": "CDN for City of Heroes (Homecoming)",
 			"domain_files": ["cityofheroes.txt"]
@@ -54,6 +59,13 @@
 			"name": "nintendo",
 			"description": "CDN for Nintendo consoles and download servers",
 			"domain_files": ["nintendo.txt"]
+		},
+		{
+			"name": "origin",
+			"description": "CDN for origin",
+			"notes": "Should be enabled for HTTP traffic only or with a HTTPS proxy else origin client download fails",
+			"mixed_content": true,
+			"domain_files": ["origin.txt"]
 		},
 		{
 			"name": "renegadex",
